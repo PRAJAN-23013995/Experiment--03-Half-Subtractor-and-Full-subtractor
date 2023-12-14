@@ -25,30 +25,61 @@ A full subtractor is a combinational circuit that performs subtraction involving
 
 Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
-## Procedure
+### Procedure
 
+![Screenshot 2023-12-14 125624](https://github.com/PRAJAN-23013995/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150313345/df9cbe96-95db-4df0-9910-301c2da307a1)
 
+###Program
+
+###Half Subtractor
+
+![Screenshot 2023-12-14 125707](https://github.com/PRAJAN-23013995/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150313345/6285c17f-cb04-487d-92a3-aea828b39af9)
+
+###Full Subtractor
+
+![Screenshot 2023-12-14 130010](https://github.com/PRAJAN-23013995/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150313345/0962bdd0-1e72-4775-a527-7209c493c02a)
 
 Write the detailed procedure here 
-
-
-## Program:
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: PRAJAN-P
+RegisterNumber:  23013995
 */
 
 ## Output:
+### RTL realization
 
-## Truthtable
+###Half Subtractor 
+
+![Screenshot 2023-12-14 130243](https://github.com/PRAJAN-23013995/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150313345/71f85e47-34b2-4998-8c42-9a7bd2f6255e)
+
+###Full Subtractor
+
+![Screenshot 2023-12-14 130255](https://github.com/PRAJAN-23013995/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150313345/08cf7712-8191-437e-8fbf-c79337fa4972)
 
 
+### Truthtable
 
-##  RTL realization
+###Half Subtractor 
 
 
-## Timing diagram 
+![Screenshot 2023-12-14 130617](https://github.com/PRAJAN-23013995/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150313345/b736a5b2-555a-4a38-879f-07d908c33050)
+
+###Full Subtractor
+
+![Screenshot 2023-12-14 130636](https://github.com/PRAJAN-23013995/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150313345/7eec2430-2aa0-446f-a830-a31647fbff36)
+
+###Timing diagram 
+
+###Half Subtractor 
+
+![Screenshot 2023-12-14 130833](https://github.com/PRAJAN-23013995/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150313345/2cb532f1-9767-4f27-b9ac-cf1b929a6e4f)
+
+###Full Subtractor
+
+![Screenshot 2023-12-14 130920](https://github.com/PRAJAN-23013995/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150313345/89f6a803-9d38-4623-88e4-83609e5da383)
+
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
